@@ -33,4 +33,7 @@ All data is stored and loaded from a file automatically.
 - Built using core Python without external libraries  
 - Implements CRUD operations for structured data  
 - Handles invalid inputs and edge cases  
-- Designed for simplicity and efficiency in CLI environment  
+- Designed for simplicity and efficiency in CLI environment
+
+## Screenshot
+![App Screenshot][Screenshot.png]
