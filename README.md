@@ -36,4 +36,4 @@ All data is stored and loaded from a file automatically.
 - Designed for simplicity and efficiency in CLI environment
 
 ## Screenshot
-![App Screenshot](Screenshot.png)
+![App Screenshot](Screenshot_2.png)
